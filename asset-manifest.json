@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TravelGuide-ReactJS/static/css/main.b7ade267.chunk.css",
+    "main.js": "/TravelGuide-ReactJS/static/js/main.6e1b762d.chunk.js",
+    "main.js.map": "/TravelGuide-ReactJS/static/js/main.6e1b762d.chunk.js.map",
+    "runtime-main.js": "/TravelGuide-ReactJS/static/js/runtime-main.ffdc5bfa.js",
+    "runtime-main.js.map": "/TravelGuide-ReactJS/static/js/runtime-main.ffdc5bfa.js.map",
+    "static/js/2.5f9da4ac.chunk.js": "/TravelGuide-ReactJS/static/js/2.5f9da4ac.chunk.js",
+    "static/js/2.5f9da4ac.chunk.js.map": "/TravelGuide-ReactJS/static/js/2.5f9da4ac.chunk.js.map",
+    "index.html": "/TravelGuide-ReactJS/index.html",
+    "static/css/main.b7ade267.chunk.css.map": "/TravelGuide-ReactJS/static/css/main.b7ade267.chunk.css.map",
+    "static/js/2.5f9da4ac.chunk.js.LICENSE.txt": "/TravelGuide-ReactJS/static/js/2.5f9da4ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffdc5bfa.js",
+    "static/js/2.5f9da4ac.chunk.js",
+    "static/css/main.b7ade267.chunk.css",
+    "static/js/main.6e1b762d.chunk.js"
+  ]
+}
